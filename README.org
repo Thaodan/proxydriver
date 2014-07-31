@@ -1,0 +1,6 @@
+#+TITLE: Proxydriver
+Proxydriver is little application wich handles Gnome/Kde proxy 
+settings using Network Manager's informations. 
+Each network connection triggers a reconfiguration of Gnome/Kde proxy, 
+based on network profile name.
+
